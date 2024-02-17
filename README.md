@@ -1,7 +1,9 @@
+# **__Java Local Multiplayer__**
+
 # Requirement
-- Any computer (Window, Mac or Linux).
-- One Microsoft account with Minecraft Java.
-- Prism Launcher: https://prismlauncher.org/download/
+- Any computer (Window, Mac or Linux)
+- One Microsoft account with Minecraft Java
+- [Prism Launcher](https://prismlauncher.org/download/)
 
 # Setup Tutorial:
 
@@ -12,11 +14,7 @@
 ### 2. Add Modpacks:
 - Click on "Add Instance" (top left corner).
 - Choose "Import" and paste the URL.
-- Repeat this action for the number of players you want in alphabetical order:
-     A: https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/Modpacks/Local.Multplayer.A.zip
-     B: https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/Modpacks/Local.Multplayer.B.zip
-     C: https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/Modpacks/Local.Multplayer.C.zip
-     D: https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/Modpacks/Local.Multplayer.D.zip
+- Repeat this action for the number of players you want in alphabetical order: [A](https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/Modpacks/Local.Multplayer.A.zip), [B](https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/Modpacks/Local.Multplayer.B.zip), [C](https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/Modpacks/Local.Multplayer.C.zip) and [D](https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/Modpacks/Local.Multplayer.D.zip).
 
 ### 3. Assign Accounts with Instances:
 - Select each instance and click on "Edit".
