@@ -17,7 +17,11 @@ With this quick setup, all the important parameters are already configured and o
 ### 2. Add Modpacks:
 - Click on "Add Instance" (top left corner).
 - Choose "Import" and paste the URL.
-- Repeat this action for the number of players you want in alphabetical order: [A](https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/Modpacks/Local.Multplayer.A.zip), [B](https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/Modpacks/Local.Multplayer.B.zip), [C](https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/Modpacks/Local.Multplayer.C.zip) and [D](https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/Modpacks/Local.Multplayer.D.zip).
+- Repeat this action for the number of players you want in alphabetical order:
+[A](https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/V1.0.1/Local.Multplayer.A.zip),
+[B](https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/V1.0.1/Local.Multplayer.B.zip),
+[C](https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/V1.0.1/Local.Multplayer.C.zip) &
+[D](https://github.com/CoconutsXXS/Minecraft-Java-Splitscreen/releases/download/V1.0.1/Local.Multplayer.D.zip).
 
 ### 3. Assign Accounts with Instances:
 - Select each instance and click on "Edit".
