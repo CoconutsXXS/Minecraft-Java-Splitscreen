@@ -1,7 +1,10 @@
 # **__Java Local Multiplayer__**
+### Play in Local Multiplayer on Java !
+With this quick setup, all the important parameters are already configured and optimized. You just have to install, set up your accounts and controllers, and start playing. You can add shaders, resource packs, and mods without any known incompatibility issues. Skins are available, allowing you to join most servers, and it is compatible with a wide range of controllers.
 
-# Requirement
+## Requirement
 - Any computer (Window, Mac or Linux)
+- One or more controller (Playstation, Xbox, Nintendo and more)
 - One Microsoft account with Minecraft Java
 - [Prism Launcher](https://prismlauncher.org/download/)
 
